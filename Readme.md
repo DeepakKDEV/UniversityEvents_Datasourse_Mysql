@@ -1,4 +1,4 @@
-# <h1 align = "center"> Univercity EVent Spring_Boot & H2database</h1>
+# <h1 align = "center"> Univercity Event Spring_Boot & mysql</h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -38,7 +38,7 @@ ___
 - Spring Web Initializer
 - Maven
 - Spring Web Dependency
-- H2databse 
+- mysql
 
 
 
